@@ -1,0 +1,26 @@
+{
+    	
+"1":{
+"CODE"	:"MRUE2009T005 ",
+"NAME":	"Dr.Meeravali shaik ",
+"DESIGNATION":	"HOD "
+},
+
+"2":{"CODE":"MRUE2209T131 ",
+"NAME":	"Dr.M.Narayanan ",
+"DESIGNATION":	"Professor "},
+	
+"3":{"CODE":"MRUE2203T081  ",
+"NAME":	"Dr.B.Jogeswara Rao ",
+"DESIGNATION":	"Associate Professor "},
+
+"4":{"CODE"	:"MRUE2304T204 ",
+"NAME"	:"Dr. K. Asish Vardhan ",
+"DESIGNATION":	"Associate Professor "},
+
+"5":{"CODE":	"MRUE2111T060 ",
+"NAME":	"Mr. M.Gouthamm ",
+"DESIGNATION":	"Assistant Professor "}
+
+  }
+  
